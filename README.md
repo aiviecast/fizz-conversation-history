@@ -10,7 +10,7 @@
 
 ```toml
 [dependencies]
-fizz_conversation_history = { git = "https://github.com/Aid-On/fizz-conversation-history", tag = "v0.1.0" }
+fizz_conversation_history = { git = "https://github.com/aiviecast/fizz-conversation-history", tag = "v0.1.0" }
 ```
 
 ## Tests
